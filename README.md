@@ -1,2 +1,0 @@
-# CoffePage
-Strona od kawy
